@@ -5,7 +5,7 @@ Personal Engineering portfolio with Arduino Projects, embedded systems work, and
 
 This project is an Arduino-based autonomous vehicle that can detect obstacles and intelligently navigate around them. It uses an ultrasonic sensor mounted on a servo to scan the environment and make real-time decisions on movement.
 
-##Overview
+## Overview
 - Built using the Elegoo Smart Car V3 platform
 - Uses a servo-mounted ultrasonic sensor for 180° environmental scanning
 - Implements logic to:
@@ -14,7 +14,7 @@ This project is an Arduino-based autonomous vehicle that can detect obstacles an
   - Turn left or right based on which direction is clearer
   - Resume forward motion
 
-##Components Used
+## Components Used
 - Arduino Uno (Elegoo Smart Car V3)
 - Ultrasonic Sensor (HC-SR04)
 - Servo Motor
@@ -22,16 +22,16 @@ This project is an Arduino-based autonomous vehicle that can detect obstacles an
 - Breadboard and jumper wires
 - Arduino IDE
 
-##Skills and Concepts Applied
+## Skills and Concepts Applied
 - Embedded C++ programming
 - Real-time sensor data handling
 - Servo control and PWM motor driving
 - Conditional logic and obstacle detection
 - Circuit design and troubleshooting
 
-##Demo
+## Demo
 
-##Potential Improvements
+## Potential Improvements
 - Add line-following capabilities using IR sensors
 - Integrate Bluetooth or RF control modes
 - Potentially a configuration setting prior to the car running to choose between autonomously moving or remote control
