@@ -34,7 +34,7 @@ This project is an Arduino-based autonomous vehicle that can detect obstacles an
 ## Potential Improvements
 - Add line-following capabilities using IR sensors
 - Integrate Bluetooth or RF control modes
-- Potentially a configuration setting prior to the car running to choose between autonomously moving or remote control
+- Implementing a configuration setting prior to the car running to choose between autonomously moving or remote control
 
 ## Contact
 Created by **Muneeb Abbas**
