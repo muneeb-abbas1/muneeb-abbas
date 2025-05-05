@@ -37,3 +37,5 @@ This project is an Arduino-based autonomous vehicle that can detect obstacles an
 - Potentially a configuration setting prior to the car running to choose between autonomously moving or remote control
 
 ## Contact
+Created by **Muneeb Abbas**
+Email: muneebabbas1998@gmail.com  
